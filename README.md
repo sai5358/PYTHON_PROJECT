@@ -1,24 +1,20 @@
 ## DIWALI SALES DATA ANALYSIS 
 
-### INTRODUCTION
+### Introduction
 
-THIS PROJECT EXPLAIN ABOUT THE EXPLORATORY DATA ANLYSIS USING PYTHON
+Exploratory Data Analysis Using Python.
 
-### OBJECTIVE
+### Objectives: 
+focused on enhancing customer experience and increasing revenue through insights derived from sales data.
 
-- IMPROVE CUSTOMER EXPERIENCE BY ANALYZING SALES DATA
-- INCREASE REVENUE
- 
-### TOOLS
+### Tools.
+Python(Jupyter Notebook)
 
-PYTHON
-(JUPYTER NOTEBOOK)
+### Libraries
+Numpy
+Pandas
+Matplotlib
+Seaborn
 
-#### LIBRARIES
-- NUMPY 
--  PANDAS
-- MATPLOTLIB
-- SEABORN
-
-### CONCLUSION
-MARRIED WOMEN AGE GROUP (26-35) YEARS FROM UP,MAHARASTRA AND KARNATAKA WORKING IN IT,HEALTH CARE AND AVIATION ARE MORE LIKELY TO BUY PRODUCTS FROM FOOD,CLOTHING AND ELECTRONICS CATEGORY.
+### Findings:
+Identified significant insights such as the demographic segment with the highest purchasing power (married women aged 26-35), popular product categories, and key sales trends during the Diwali period.
